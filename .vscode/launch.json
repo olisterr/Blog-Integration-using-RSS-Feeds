@@ -7,7 +7,7 @@
             "name": "Microsoft cloud sandbox",
             "startupObjectId": 50150,
             "startupObjectType": "Page",
-            "tenant":"thirdcoastcommodities.onmicrosoft.com",
+            "tenant":"xxxxx.onmicrosoft.com",
             "breakOnError": true,
             "launchBrowser": true
         }
