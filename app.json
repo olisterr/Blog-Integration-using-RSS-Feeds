@@ -1,0 +1,18 @@
+{
+  "id": "38e8af3b-1e80-4684-94f1-259cbb4d3301",
+  "name": "RSS Feeds",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "runtime": "2.0"
+}

@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Microsoft cloud sandbox",
+            "startupObjectId": 50150,
+            "startupObjectType": "Page",
+            "tenant":"thirdcoastcommodities.onmicrosoft.com",
+            "breakOnError": true,
+            "launchBrowser": true
+        }
+    ]
+}
